@@ -1,0 +1,20 @@
+D:\VP\Rhythm Game\bin\Debug\net5.0-windows\Rhythm Game.exe
+D:\VP\Rhythm Game\bin\Debug\net5.0-windows\Rhythm Game.deps.json
+D:\VP\Rhythm Game\bin\Debug\net5.0-windows\Rhythm Game.runtimeconfig.json
+D:\VP\Rhythm Game\bin\Debug\net5.0-windows\Rhythm Game.runtimeconfig.dev.json
+D:\VP\Rhythm Game\bin\Debug\net5.0-windows\Rhythm Game.dll
+D:\VP\Rhythm Game\bin\Debug\net5.0-windows\ref\Rhythm Game.dll
+D:\VP\Rhythm Game\bin\Debug\net5.0-windows\Rhythm Game.pdb
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm Game.csprojAssemblyReference.cache
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm Game.csproj.GenerateResource.cache
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm Game.AssemblyInfoInputs.cache
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm Game.AssemblyInfo.cs
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm Game.csproj.CoreCompileInputs.cache
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm Game.dll
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\ref\Rhythm Game.dll
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm Game.pdb
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm Game.genruntimeconfig.cache
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm_Game.Properties.Resources.resources
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm_Game.Game.resources
+D:\VP\Rhythm Game\obj\Debug\net5.0-windows\Rhythm_Game.Menu.resources
